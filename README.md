@@ -4,8 +4,7 @@ A modern, responsive multi-page website for **PixelPalette Studios** — a creat
 
 ![PixelPalette Studios](https://github.com/ketanbagewadi/PixelPalette-Studios-LandingPage/blob/main/images/hero-bg.png)
 
-
-# Features
+## Features
 
 - Fully Responsive Design – Optimized for desktop, tablet, and mobile
 - Modern UI/UX with smooth animations
@@ -18,9 +17,9 @@ A modern, responsive multi-page website for **PixelPalette Studios** — a creat
 - Built with HTML, SCSS/CSS, JavaScript, and Bootstrap
 - Clean code structure with separate folders for assets
 
+## Project Structure
 
-# Project Structure
-
+```bash
 PixelPalette-Studios-LandingPage/
 ├── index.html
 ├── about.html
@@ -37,18 +36,12 @@ PixelPalette-Studios-LandingPage/
 │   └── portfolio/
 ├── fonts/
 └── README.md
+```
 
-
-#  Live Demo
-
+## Live Demo
 
 [PixelPalette Studios](https://ketanbagewadi.github.io/PixelPalette-Studios-LandingPage/)
 
+## What is PixelPalette Studios?
 
-
-# What is PixelPalette Studios?
-
-PixelPalette Studios is a creative agency specializing in visual design, branding, web development, and digital experiences. This landing page showcases our work, services, and story.
-
-
-
+PixelPalette Studios is a creative agency specializing in visual design, branding, web development, and digital experiences. This landing page showcases the studio's work, services, and creative vision while providing a clean and engaging user experience.
