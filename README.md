@@ -28,9 +28,15 @@ PixelPalette-Studios-LandingPage/
 ├── portfolio.html
 ├── contact.html
 ├── css/
+│   └── style.css
 ├── js/
+│   └── main.js
 ├── images/
-└── fonts/
+│   ├── hero-bg.png
+│   ├── logo.png
+│   └── portfolio/
+├── fonts/
+└── README.md
 
 
 #  Live Demo
