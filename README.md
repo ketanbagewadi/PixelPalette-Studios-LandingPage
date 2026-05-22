@@ -50,3 +50,5 @@ PixelPalette-Studios-LandingPage/
 
 PixelPalette Studios is a creative agency specializing in visual design, branding, web development, and digital experiences. This landing page showcases our work, services, and story.
 
+
+
